@@ -1,0 +1,55 @@
+////////////////////////////////////////////////////////////////////
+Processs Name: notepad
+Thread cnt: 1
+The moduleName is notepad.exe
+The notepad.exe's File name is: C:\Windows\system32\notepad.exe
+The moduleName is ntdll.dll
+The ntdll.dll's File name is: C:\Windows\SYSTEM32\ntdll.dll
+The moduleName is kernel32.dll
+The kernel32.dll's File name is: C:\Windows\system32\kernel32.dll
+The moduleName is KERNELBASE.dll
+The KERNELBASE.dll's File name is: C:\Windows\system32\KERNELBASE.dll
+The moduleName is ADVAPI32.dll
+The ADVAPI32.dll's File name is: C:\Windows\system32\ADVAPI32.dll
+The moduleName is msvcrt.dll
+The msvcrt.dll's File name is: C:\Windows\system32\msvcrt.dll
+The moduleName is sechost.dll
+The sechost.dll's File name is: C:\Windows\SYSTEM32\sechost.dll
+The moduleName is RPCRT4.dll
+The RPCRT4.dll's File name is: C:\Windows\system32\RPCRT4.dll
+The moduleName is GDI32.dll
+The GDI32.dll's File name is: C:\Windows\system32\GDI32.dll
+The moduleName is USER32.dll
+The USER32.dll's File name is: C:\Windows\system32\USER32.dll
+The moduleName is LPK.dll
+The LPK.dll's File name is: C:\Windows\system32\LPK.dll
+The moduleName is USP10.dll
+The USP10.dll's File name is: C:\Windows\system32\USP10.dll
+The moduleName is COMDLG32.dll
+The COMDLG32.dll's File name is: C:\Windows\system32\COMDLG32.dll
+The moduleName is SHLWAPI.dll
+The SHLWAPI.dll's File name is: C:\Windows\system32\SHLWAPI.dll
+The moduleName is COMCTL32.dll
+The COMCTL32.dll's File name is: C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_fa396087175ac9ac\COMCTL32.dll
+The moduleName is SHELL32.dll
+The SHELL32.dll's File name is: C:\Windows\system32\SHELL32.dll
+The moduleName is WINSPOOL.DRV
+The WINSPOOL.DRV's File name is: C:\Windows\system32\WINSPOOL.DRV
+The moduleName is ole32.dll
+The ole32.dll's File name is: C:\Windows\system32\ole32.dll
+The moduleName is OLEAUT32.dll
+The OLEAUT32.dll's File name is: C:\Windows\system32\OLEAUT32.dll
+The moduleName is VERSION.dll
+The VERSION.dll's File name is: C:\Windows\system32\VERSION.dll
+The moduleName is IMM32.DLL
+The IMM32.DLL's File name is: C:\Windows\system32\IMM32.DLL
+The moduleName is MSCTF.dll
+The MSCTF.dll's File name is: C:\Windows\system32\MSCTF.dll
+The moduleName is CRYPTBASE.dll
+The CRYPTBASE.dll's File name is: C:\Windows\system32\CRYPTBASE.dll
+The moduleName is uxtheme.dll
+The uxtheme.dll's File name is: C:\Windows\system32\uxtheme.dll
+The moduleName is dwmapi.dll
+The dwmapi.dll's File name is: C:\Windows\system32\dwmapi.dll
+End of one proc
+

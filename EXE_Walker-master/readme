@@ -1,0 +1,2 @@
+This application displays information about used modules/dlls by the user entered process.
+It also shows all the processes currently using the 'dll'as entered by the user,

@@ -1,0 +1,20 @@
+﻿<Window x:Class="ExeDllWalker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExeDllWalker"
+        mc:Ignorable="d"
+        Title="Executable Dependency Walker" Height="250" Width="800">
+    <Grid x:Name="Panel">
+        <StackPanel x:Name="Spanel" HorizontalAlignment="Left" Height="43" Margin="10,167,0,0" VerticalAlignment="Top" Width="739"/>
+        <Label x:Name="Pname" Content="Process Name" HorizontalAlignment="Left" Margin="10,23,0,0" VerticalAlignment="Top" Height="39" Width="126" FontSize="18"/>
+        <TextBox x:Name="proc" HorizontalAlignment="Left" Height="39" Margin="141,23,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="468" FontSize="18"/>
+        <Button x:Name="GetInfo" Content="GetInfo" HorizontalAlignment="Left" Margin="630,23,0,0" VerticalAlignment="Top" Width="119" Height="39" FontSize="18" Click="GetInfo_Click"/>
+        <Label x:Name="Dllname" Content="DLL Name" HorizontalAlignment="Left" Height="39" Margin="10,75,0,0" VerticalAlignment="Top" Width="126" FontSize="18"/>
+        <TextBox x:Name="dllname" HorizontalAlignment="Left" Height="39" Margin="141,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="468" FontSize="18"/>
+        <Button x:Name="DLLInfo" Content="GetInfo" HorizontalAlignment="Left" Height="39" Margin="630,75,0,0" VerticalAlignment="Top" Width="119" FontSize="18" Click="DLLInfo_Click"/>
+        <Label x:Name="title1" Content="" HorizontalAlignment="Left" Height="43" Margin="11,124,0,0" VerticalAlignment="Top" Width="360" FontSize="18"/>
+
+    </Grid>
+</Window>

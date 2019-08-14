@@ -1,0 +1,15 @@
+C:\Users\Snehal\source\repos\ExeDllWalker\ExeDllWalker\bin\Debug\ExeDllWalker.exe.config
+C:\Users\Snehal\source\repos\ExeDllWalker\ExeDllWalker\bin\Debug\ExeDllWalker.exe
+C:\Users\Snehal\source\repos\ExeDllWalker\ExeDllWalker\bin\Debug\ExeDllWalker.pdb
+C:\Users\Snehal\source\repos\ExeDllWalker\ExeDllWalker\obj\Debug\ExeDllWalker.csprojAssemblyReference.cache
+C:\Users\Snehal\source\repos\ExeDllWalker\ExeDllWalker\obj\Debug\MainWindow.g.cs
+C:\Users\Snehal\source\repos\ExeDllWalker\ExeDllWalker\obj\Debug\App.g.cs
+C:\Users\Snehal\source\repos\ExeDllWalker\ExeDllWalker\obj\Debug\ExeDllWalker_MarkupCompile.cache
+C:\Users\Snehal\source\repos\ExeDllWalker\ExeDllWalker\obj\Debug\ExeDllWalker_MarkupCompile.lref
+C:\Users\Snehal\source\repos\ExeDllWalker\ExeDllWalker\obj\Debug\MainWindow.baml
+C:\Users\Snehal\source\repos\ExeDllWalker\ExeDllWalker\obj\Debug\ExeDllWalker.g.resources
+C:\Users\Snehal\source\repos\ExeDllWalker\ExeDllWalker\obj\Debug\ExeDllWalker.Properties.Resources.resources
+C:\Users\Snehal\source\repos\ExeDllWalker\ExeDllWalker\obj\Debug\ExeDllWalker.csproj.GenerateResource.cache
+C:\Users\Snehal\source\repos\ExeDllWalker\ExeDllWalker\obj\Debug\ExeDllWalker.csproj.CoreCompileInputs.cache
+C:\Users\Snehal\source\repos\ExeDllWalker\ExeDllWalker\obj\Debug\ExeDllWalker.exe
+C:\Users\Snehal\source\repos\ExeDllWalker\ExeDllWalker\obj\Debug\ExeDllWalker.pdb

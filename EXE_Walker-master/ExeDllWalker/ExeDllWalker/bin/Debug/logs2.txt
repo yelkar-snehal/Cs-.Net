@@ -1,0 +1,17 @@
+processs: wuauclt
+processs: conhost
+processs: chrome
+processs: conhost
+processs: chrome
+processs: chrome
+processs: conhost
+processs: CFF Explorer
+processs: chrome
+processs: chrome
+processs: dwm
+processs: chrome
+processs: chrome
+processs: chrome
+processs: taskhost
+processs: notepad
+processs: explorer
